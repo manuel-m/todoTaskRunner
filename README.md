@@ -1,11 +1,6 @@
-# CPP with node.js toolchain
+# TODOLISTCPP
 
 cli task runner and editor
-
-### Features
-
-* fast rebuild on code change (debug / release binaries)
-* tests integration
 
 ### Usage
 
