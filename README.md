@@ -14,6 +14,11 @@ make configure
 make build
 ```
 
+* run
+```
+out/bin/todocpp
+```
+
 * build on change
 ```
 make watch
