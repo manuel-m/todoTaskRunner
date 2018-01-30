@@ -1,0 +1,17 @@
+{
+  "name": "cppBuildSync",
+  "version": "1.0.0",
+  "description": "seed project to bootstrap CPP project using node.js, cmake and ninja build",
+  "main": "",
+  "scripts": {
+    "test": "testUnits.js"
+  },
+  "author": "Efficiel technologie",
+  "license": "ISC",
+  "devDependencies": {
+    "chokidar": "^1.4.2",
+    "debounce": "^1.0.0",
+    "lodash": "^4.1.0",
+    "walk": "^2.3.9"
+  }
+}

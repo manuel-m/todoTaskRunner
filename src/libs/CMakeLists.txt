@@ -1,0 +1,1 @@
+add_library(tdl tasksRunner.cpp tasksEdit.cpp)
